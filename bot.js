@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3000;
 // SOZLAMALAR
 const BOT_TOKEN = "8715988693:AAGEWxHC0OCssvV5FxD9JFUq1fYJDu9IZZY";
 const VIDEO_LINK = "https://youtu.be/YO4mzmOIkCU?si=2vDri1uYAtaxQQUn";
-const VIDEO_NOTE_FILE = "./video.mp4"; // Fayl manzili to'g'riligini tekshiring
+const VIDEO_NOTE_FILE = ""; // Fayl manzili to'g'riligini tekshiring
 
 const bot = new Telegraf(BOT_TOKEN);
 let users = new Set(); // Foydalanuvchilar ID lari (bazaga ulamaguncha vaqtinchalik)
