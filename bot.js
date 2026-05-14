@@ -31,7 +31,7 @@ Stress va depressiyadan qutulish uchun birinchi qadamni tashladingiz.
 
 Va'da qilingan 'Stressdan chiqish:  videosini quyidagi tugma orqali ko'rishingiz mumkin:  
 
-                👉 \n${VIDEO_LINK}`);
+                👉 ${VIDEO_LINK}`);
 
         console.log("5 daqiqalik kutish boshlandi...");
 
