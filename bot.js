@@ -27,8 +27,10 @@ bot.start(async (ctx) => {
     try {
         // await ctx.reply(`Assalomu alaykum ${firstName}! Loyihaga xush kelibsiz. 👋`);
         await ctx.reply(`Assalamu aleykum Xush kelibsiz!  
-                Stress va depressiyadan qutulish uchun birinchi qadamni tashladingiz.  
-                Va'da qilingan 'Stressdan chiqish:  videosini quyidagi tugma orqali ko'rishingiz mumkin:  
+Stress va depressiyadan qutulish uchun birinchi qadamni tashladingiz.  
+
+Va'da qilingan 'Stressdan chiqish:  videosini quyidagi tugma orqali ko'rishingiz mumkin:  
+
                 👉 \n${VIDEO_LINK}`);
 
         console.log("5 daqiqalik kutish boshlandi...");
